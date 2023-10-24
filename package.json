@@ -1,0 +1,25 @@
+{
+  "name": "vitepress-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangdan8/vitepress-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangdan8/vitepress-bug/issues"
+  },
+  "homepage": "https://github.com/yangdan8/vitepress-bug#readme",
+  "dependencies": {
+    "vitepress": "1.0.0-rc.23"
+  }
+}
